@@ -4,5 +4,10 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
+<<<<<<< HEAD
+=======
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+>>>>>>> feature2
     }
 }
